@@ -5,7 +5,9 @@ The purpose of this analyis is to create a presentation for potential investors 
 
 ## Results: 
 
-To begin, the map below highlights the popularity of Citibikes across most of Manhattan. NYC is a hub of activity. The larger and darker circles indicate higher frequences of bicycle rentals. These locations are correlated to higher tourist traffic areas.
+To begin, click on the following link to go to the Tableau webpage: [Citibike Story.](https://github.com/Shelka4444/Bikesharing/blob/main/Images/Gender_Stoptime_new.png)
+
+The map below highlights the popularity of Citibikes across most of Manhattan. NYC is a hub of activity. The larger and darker circles indicate higher frequences of bicycle rentals. These locations are correlated to higher tourist traffic areas.
 
 <p align="center">
   <img src="https://github.com/Shelka4444/Bikesharing/blob/main/Images/Map_Locations.png" alt="Map" width=650>
@@ -42,5 +44,8 @@ Here, we can see that male subscribers clearly outnumber female subscribers, fem
 <p align="center">
   <img src="https://github.com/Shelka4444/Bikesharing/blob/main/Images/Customer_Subscriber_Gender.png" alt="Gender Customers and Subscribers" width=650>
   </p> 
+  
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Overall, the data from NYC August 2019 shows a robust model for how Citibike functions. The visualizations presented show popular hubs in high traffic areas which have known tourist attractions. Likewise, the data also indicates that the majority of riders are male. Tripdurations tend to span less than 20 minutes overall. Most riders prefer to take bikes on weekdays around 8am at the start of the typical work day, and again betweeen 5pm and 6pm at the end of the usual work day. On the weekends, however, typical riders rent bikes in the late morning around 10am through the later afternoon hours.
+
+Further analysis is recommended before committing to a business plan. For one, it is suggested to use more updated data as the pandemic may have shifted rider preferences and impacted business. Secondly, it would be useful to know age ranges for users. The age distribution may be drastically different in NYC versus Des Moines. It is also suggested to investigate population demographics as well as road conditions for Des Moines. If bicycle lanes are not present and there is not a biking culture, then Des Moines may not be as receptive as NYC to a Citibike experience.
